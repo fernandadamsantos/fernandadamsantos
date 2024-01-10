@@ -28,7 +28,7 @@ Eu sou a [Fernanda](https://github.com/fernandadamsantos), uma entusiasta da pro
 
 ## 😄 Sobre Mim
 
-Além de ser apaixonada por código, também adoro café, música e jogos. Sempre em busca de novos desafios e aprendizados!
+Além de ser apaixonada por código, também adoro café, música e jogos. Estou sempre em busca de novos desafios e aprendizados!
 
 **Vamos colaborar em algum projeto incrível?** ✨
 
